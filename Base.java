@@ -34,7 +34,6 @@ props.load(reader);
 	e.printStackTrace();
 }
 	
-hejsandddddgit sta		
 /*
 		
 try {
